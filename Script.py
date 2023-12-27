@@ -199,8 +199,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ ᴄʜᴀɴɴᴇʟ : <a href='https://t.me/+nSD05P6dHWZmZTc1'>Joint</a>
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href='https://t.me/+YUFEObApJqIwMzBl'>Joint</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
