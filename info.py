@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ['API_ID', '20247467'])
-API_HASH = environ['API_HASH', '8ab4a0d75eec6fe40b85144c2c0ff418']
-BOT_TOKEN = environ['BOT_TOKEN', '7463402688:AAGDr430x0N9DrawA-kKu-k9p2TqeTHqoDk']
+API_ID = int(environ['API_ID', '26626715'])
+API_HASH = environ['API_HASH', '967f1c73aa77a29009bc364edd30b525']
+BOT_TOKEN = environ['BOT_TOKEN', '7400707493:AAGbj53YNBBzYmVw_oqZUS1j3kkBPWyA_Os']
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -61,7 +61,7 @@ PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+-CWDhekYZiwwMmZl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/darkmovies2')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1002239644951))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002239644951'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'DQ_The_File_Donor_Support')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
